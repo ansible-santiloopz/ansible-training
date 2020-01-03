@@ -1,6 +1,10 @@
 # ansible-training
 repository for the Udemy course on Ansible
 
+## ansible command
+`ansible <hosts> -a <command>`
+`ansible <hosts> -m <module>`
+
 ## establish a ping:
 `ansible target1 -m ping -i inventory.txt`
 
