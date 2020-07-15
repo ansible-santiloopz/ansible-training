@@ -1,5 +1,6 @@
-# ansible-training
-repository for the Udemy course on Ansible
+# Ansible Knowledge Base
+
+Notes and code examples for the Ansible tool.
 
 ## ansible command
 `ansible <hosts> -a <command>`
